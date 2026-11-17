@@ -26,6 +26,5 @@
 ### Контакты
 
 - **Telegram:** [@bogdangizdar](https://t.me/bogdangizdar)
+- **VK:** [bogdan_gizdar](https://vk.ru/bogdan_gizdar)
 - **email:** [bogdan.gizdar@gmail.com](mailto:bogdan.gizdar@gmail.com)
-
-

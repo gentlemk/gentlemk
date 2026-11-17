@@ -1,16 +1,31 @@
-## Hi there 👋
+# Богдан Гиздарь (Bogdan Gizdar)
 
-<!--
-**gentlemk/gentlemk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Backend Developer | Data Scientist | ML Engineer**
 
-Here are some ideas to get you started:
+>Разрабатываю серверную логику и проектирую базы данных на Python и PostgreSQL, имею опыт реализации алгоритмов на C/C++. В области Data Science и Machine Learning применяю методы разведочного анализа данных (EDA) и подготавливаю признаки для моделей. Опираясь на математический фундамент и опыт преподавания точных наук (линейная алгебра, теория вероятностей, статистика, оптимизация и другие), использую ML-библиотеки с пониманием их внутреннего математического устройства.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ключевые компетенции
+
+### Технологический стек
+
+### Проекты
+
+### Образование
+
+- **Уральский федеральный университет (УрФУ)**
+  - Екатеринбург
+  - *Бакалавриат, Прикладная информатика*
+  - 4 курс
+  - 2023 – 2028
+
+- **Школа 21 (Школа цифровых технологий от Сбер)**
+  - Казань
+  - *Направление: Backend Developer | Data Scientist | ML Engineer*
+  - 2023 – 2027
+
+### Контакты
+
+- **Telegram:** [@bogdangizdar](https://t.me/bogdangizdar)
+- **email:** [bogdan.gizdar@gmail.com](mailto:bogdan.gizdar@gmail.com)
+
+
